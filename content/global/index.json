@@ -30,9 +30,14 @@
     }
   },
   "theme": {
-    "color": "blue",
-    "font": "sans",
-    "icon": "boxicon",
+    "color": "teal",
+    "font": "nunito",
+    "icon": "heroicon",
     "darkMode": "system"
-  }
+  },
+  "_collection": "global",
+  "_keepTemplateKey": false,
+  "_template": "global",
+  "_relativePath": "index.json",
+  "_id": "content/global/index.json"
 }
